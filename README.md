@@ -1,6 +1,6 @@
 # Challenge React Native 
 
-This project is a [React Native](https://facebook.github.io/react-native/) is a challenge to present my knowledge.
+This project is a [React Native](https://facebook.github.io/react-native/) challenge to present my knowledge.
 
 ## Architecture
 
